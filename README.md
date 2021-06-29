@@ -2,7 +2,7 @@
 
 ### I am a Student in Front-End and Mobile !!
 
-▸ 🍀 I’m currently learning HTML, CSS, Js e C#. <br>
+▸ 🍀 I’m currently learning HTML, CSS and Js. <br>
 ▸ 💻 I am passionate about technology and programming and I seek to be a great mobile Dev.  <br>
 ▸ 💬 Ask me about what to do and what to learn to stand out and get a job.  <br>   
 ▸ 🤝🏻 2021 Plans: Get my first job.
