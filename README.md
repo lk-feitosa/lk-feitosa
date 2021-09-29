@@ -1,9 +1,9 @@
-#### Hi, my name is Lukas Gabriel 👋🏻
+#### Olá, me chamo Lukas Gabriel 👋🏻
 
-### I am a Student in Analysis and Systems Development !!
+### Cursando Análise e Desenvolvimento de Sistemas !!
 
-▸ 🍀 I’m currently learning HTML, CSS and Js. <br>
-▸ 💻 I am passionate about technology and programming and I seek to be a great mobile Dev.  <br>
+▸ 🍀 Atualmente, estou aprendendo HTML, CSS e Js. <br>
+▸ 💻 Sou apaixonado por tecnologia e programação e procuro ser um DEV Front-End.  <br>
 
 [<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://pt.stackoverflow.com/users/230761/lukas-feitosa?tab=profile)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lkfeitosa/)
