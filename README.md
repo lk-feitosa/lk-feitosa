@@ -3,8 +3,7 @@
 ![Hello](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
  
 <hr>
-
-    
+ 
 </h4>
 
 <h3 align="center">
@@ -15,6 +14,7 @@
 
 <br>
 Olá, me chamo Lukas Gabriel! 🇧🇷
+<br>
 <br>
   
  Estudante de Análise e Desenvolvimento de Sistemas pela Estacio - EAD <br>
