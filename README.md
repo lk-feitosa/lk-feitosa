@@ -1,15 +1,29 @@
-#### Olá, me chamo Lukas Gabriel 👋🏻
+<h4 aling="center">
+  
+![Hello](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
+ 
+<hr>
 
-### Cursando Análise e Desenvolvimento de Sistemas !!
+    
+</h4>
 
-▸ 🍀 Atualmente, estou aprendendo HTML, CSS e Js. <br>
-▸ 💻 Sou apaixonado por tecnologia e programação e procuro ser um DEV Front-End.  <br>
-
-[<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://pt.stackoverflow.com/users/230761/lukas-feitosa?tab=profile)
+<h3 align="center">
+ 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lkfeitosa/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lk.feitosa/)
 [<img src="https://img.shields.io/badge/email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:lukas.feitosa03@hotmail.com)
 
-<!--
-## ⚡ GitHub Stats
--->
+<br>
+Olá, me chamo Lukas Gabriel! 🇧🇷
+<br>
+  
+ Estudante de Análise e Desenvolvimento de Sistemas pela Estacio - EAD <br>
+ Focando na área de desenvolvimento front-end. =)
+  
+</h3>
+
+
+#### ⚡ GitHub Stats
+![A GitHub stats](https://github-readme-stats.vercel.app/api?username=lk-feitosa&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lk-feitosa&layout=compact&theme=tokyonight)](https://github.com/lk-feitosa)
+
