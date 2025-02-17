@@ -13,13 +13,12 @@
 [<img src="https://img.shields.io/badge/email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:lukas.feitosa03@hotmail.com)
 
 <br>
-Olá, me chamo Lukas Gabriel! 🇧🇷
+LK Feitosa
 <br>
 <br>
   
- Estudante de Análise e Desenvolvimento de Sistemas pela Estacio - EAD <br>
- Focando na área de desenvolvimento front-end. =)
-  
+ ADS - Estácio <br>
+
 </h3>
 
 
