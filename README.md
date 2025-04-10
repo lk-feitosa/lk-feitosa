@@ -31,9 +31,10 @@
 
 ---
 
-## ⚡ GitHub Stats
+### ⚡ GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lk-feitosa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lk-feitosa&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-stats-lk-feitosa.vercel.app/api?username=lk-feitosa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  <img height="160em" src="https://github-stats-lk-feitosa.vercel.app/api/top-langs/?username=lk-feitosa&layout=compact&theme=tokyonight" />
 </p>
+
