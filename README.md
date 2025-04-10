@@ -1,4 +1,4 @@
-<h1 align="center">LK Feitosa</h1>
+<h1 align="center">🌐 LK Feitosa</h1>
 
 <p align="center">
   <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="600" alt="matrix animation" />
@@ -23,7 +23,7 @@
 
 ---
 
-## 💻 Tecnologias favoritas
+### 💻 Tecnologias favoritas
 
 - 🚀 Front-end com HTML, CSS e **JavaScript**
 - 🐍 Curioso e praticante de **Python**
@@ -31,10 +31,9 @@
 
 ---
 
-### ⚡ GitHub Stats
+### ⚡ GitHub Stats (via Vercel)
 
 <p align="center">
-  <img height="160em" src="https://github-stats-lk-feitosa.vercel.app/api?username=lk-feitosa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-  <img height="160em" src="https://github-stats-lk-feitosa.vercel.app/api/top-langs/?username=lk-feitosa&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats-lk-feitosas-projects.vercel.app/api?username=lk-feitosa&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="160em" src="https://github-readme-stats-lk-feitosas-projects.vercel.app/api/top-langs/?username=lk-feitosa&layout=compact&theme=tokyonight"/>
 </p>
-
