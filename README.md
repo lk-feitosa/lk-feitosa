@@ -27,7 +27,7 @@
 
 - 🚀 Front-end com HTML, CSS e **JavaScript**
 - 🐍 Curioso e praticante de **Python**
-- 🐧 Usuário Linux, mas também manja de Windows
+- 🐧 Usuário Linux e Windows
 
 ---
 
