@@ -12,8 +12,6 @@ I’m passionate about learning, building, and exploring how things work — whe
 Outside of code, I’m a cat lover 🐱, gaming fan 🎮, and a tech explorer always tinkering with new setups.  
 Lately, I’ve been working on building my own **home server** — learning about self-hosting and Linux-based environments as a **home server enthusiast**.
 
-Thanks for stopping by! 😊
-
 <!-- 
 ### ⚡ GitHub Stats
 <p align="center">
