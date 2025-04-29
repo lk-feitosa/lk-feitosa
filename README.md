@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="600" alt="matrix animation" />
+  <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" style="width:100%;" />
 </p>
 
 ---
